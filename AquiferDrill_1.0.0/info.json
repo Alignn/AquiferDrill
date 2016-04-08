@@ -1,0 +1,9 @@
+{
+  "name": "AquiferDrill",
+  "version": "1.0",
+  "title": "Drill to Aquifer",
+  "author": "Align",
+  "contact": "axelandren@gmail.com",
+  "homepage": "-",
+  "description": "A drill that outputs water wherever it is placed."
+}
