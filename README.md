@@ -6,5 +6,5 @@ That's it!
 
 Unzipping is not necessary, but if you want to edit the files you can extract the AquiferDrill folder into the mods folder instead.
 
-1.2.0: compatibility with Factorio 0.13, changed text
+1.2.0: compatibility with Factorio 0.13, changed text  
 1.1.0: added text, fixed bugs
