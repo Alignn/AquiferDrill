@@ -10,7 +10,7 @@ Unzipping is not necessary.
 Forum and discussion thread can be found here: https://forums.factorio.com/viewtopic.php?f=93&t=23329
 
 History:  
-1.2.1: compatibility with Factorio 0.15. Increased water output 10x to match change in vanilla liquids. Adjusted icon size to the new 32x32 requirement.
+1.2.2: compatibility with Factorio 0.15. Increased water output 10x to match change in vanilla liquids. Adjusted icon size to the new 32x32 requirement.
 
 1.2.1: compatibility with Factorio 0.14
 
