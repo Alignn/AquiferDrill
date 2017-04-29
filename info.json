@@ -1,10 +1,11 @@
 {
   "name": "AquiferDrill",
-  "version": "1.2.1",
-  "factorio_version": "0.14",
+  "version": "1.2.2",
+  "factorio_version": "0.15",
   "title": "Drill to Aquifer",
   "author": "Align",
   "contact": "axelandren@gmail.com",
   "homepage": "https://github.com/Alignn/FactorioMod-AquiferDrill",
+   "dependencies": ["base >= 0.15.0"],
   "description": "Adds a drill that draws up water from the underground."
 }

@@ -6,7 +6,7 @@ data:extend(
     icon = "__AquiferDrill__/graphics/icons/aquifer-drill.png",
     flags = {"placeable-neutral", "placeable-player", "player-creation"},
     minable = {hardness = 0.2, mining_time = 1, result = "aquifer-drill"},
-    max_health = 100,
+    max_health = 200,
 	fixed_recipe = "aquifer-water",
     crafting_categories = {"aquifer-water"},
 	crafting_speed = 0.75,
@@ -15,6 +15,7 @@ data:extend(
     energy_source =
     {
       type = "burner",
+      fuel_category = "chemical",
       effectivity = 1,
       fuel_inventory_size = 1,
       emissions = 0.1 / 10,
