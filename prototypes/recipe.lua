@@ -20,6 +20,6 @@ data:extend(
 		category = "aquifer-water",
 		energy_required = 1,
 		ingredients = {},
-		results = {{type = "fluid", name = "water", amount=100}}
+		results = {{type = "fluid", name = "water", amount=75}}
 	}
 })
