@@ -4,6 +4,7 @@ data:extend(
     type = "assembling-machine",
     name = "aquifer-drill",
     icon = "__AquiferDrill__/graphics/icons/aquifer-drill.png",
+    icon_size = 32,
     flags = {"placeable-neutral", "placeable-player", "player-creation"},
     minable = {hardness = 0.2, mining_time = 1, result = "aquifer-drill"},
     max_health = 200,
