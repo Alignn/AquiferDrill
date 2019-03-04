@@ -3,13 +3,15 @@ Adds an Aquifer Drill, which uses fuel to draw up water anywhere. Requires no re
 To download & install: Use the in-game mod browser and look for "Drill to Aquifer".
 
 To download manually: Check the releases tab on github: https://github.com/Alignn/AquiferDrill/releases  
-Download AquiferDrill_1.2.3.zip from there.  
+Download AquiferDrill_1.2.4.zip from there.  
 To install manually: Put the .zip file in this folder: C:\Users\your name here\AppData\Roaming\Factorio\mods, unless of course your mod folder is somewhere else.  
 Unzipping is not necessary.
 
 Forum and discussion thread can be found here: https://forums.factorio.com/viewtopic.php?f=93&t=23329
 
 History:  
+1.2.4: compatibility with Factorio 0.17, new demonstration image.
+
 1.2.3: compatibility with Factorio 0.16.
 
 1.2.2: compatibility with Factorio 0.15. Increased water output 10x to match change in vanilla liquids. Adjusted icon size to the new 32x32 requirement.
