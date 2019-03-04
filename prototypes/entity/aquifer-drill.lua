@@ -4,7 +4,7 @@ data:extend(
     type = "assembling-machine",
     name = "aquifer-drill",
     icon = "__AquiferDrill__/graphics/icons/aquifer-drill.png",
-    icon_size = 32,
+	icon_size = 32,
     flags = {"placeable-neutral", "placeable-player", "player-creation"},
     minable = {hardness = 0.2, mining_time = 1, result = "aquifer-drill"},
     max_health = 200,
@@ -48,8 +48,8 @@ data:extend(
       north =
       {
         priority = "extra-high",
-        width = 114,
-        height = 113,
+        width = 112,
+        height = 112,
         shift = {0.1875, -0.03125},
 		frame_count = 1,
         filename = "__AquiferDrill__/graphics/north.png"
@@ -57,8 +57,8 @@ data:extend(
       east =
       {
         priority = "extra-high",
-        width = 114,
-        height = 113,
+        width = 112,
+        height = 112,
         shift = {0.1875, -0.03125},
 		frame_count = 1,
         filename = "__AquiferDrill__/graphics/east.png"
@@ -66,8 +66,8 @@ data:extend(
       south =
       {
         priority = "extra-high",
-        width = 114,
-        height = 113,
+        width = 112,
+        height = 112,
         shift = {0.1875, -0.03125},
 		frame_count = 1,
         filename = "__AquiferDrill__/graphics/south.png"
@@ -75,8 +75,8 @@ data:extend(
       west =
       {
         priority = "extra-high",
-        width = 114,
-        height = 113,
+        width = 112,
+        height = 112,
         shift = {0.1875, -0.03125},
 		frame_count = 1,
         filename = "__AquiferDrill__/graphics/west.png"
